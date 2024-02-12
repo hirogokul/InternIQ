@@ -1,1 +1,1 @@
-# INTERNIQ
+# InternIQ
